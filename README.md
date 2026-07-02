@@ -1,2 +1,3 @@
 # start-demo
-i am learning git
+i am learning
+I am learning java
